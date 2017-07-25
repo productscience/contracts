@@ -1,6 +1,6 @@
 # General terms
 
-## 16th December 2014
+## 25th July 2017
 
 1. ### Parties
 
@@ -67,10 +67,10 @@
 
 6. ### Subcontracting
 
-    1.  At Product Science's sole discretion, freelancers or contractors may be used
-        in place of Product Science employees in order to complete some or all of the Work.
-    2.  Product Science will not outsource the Work without your prior agreement, which
-        must not be unreasonably withheld or delayed.
+    1.  At Product Science's sole discretion, freelancers or contractors may be
+        used in place of Product Science employees in order to complete some or all of the Work.
+    2.  Product Science will not outsource the Work without your prior
+        agreement, which must not be unreasonably withheld or delayed.
 
 7. ### Quality
 
@@ -79,8 +79,6 @@
         £1,000,000 (the "insured sum"). We would be willing to negotiate an
         increase in the insured sum on condition that we were able to pass
         on any corresponding increase in the premium.
-
-18. ### Hosting service
 
 8. ### Limitation of liability
 
@@ -103,7 +101,8 @@
     2.  Product Science will generally not keep the details of the Work
         confidential, including but not limited to:
 
-        1.  The fact that Product Science has a commercial relationship with you;
+        1.  The fact that Product Science has a commercial relationship with
+            you;
         2.  The nature and goals of the Work;
         3.  The Work's likely completion date(s);
         4.  The fee for the Work.
@@ -114,7 +113,8 @@
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
-        2.  Personal data Product Science acquires during the course of the Work;
+        2.  Personal data Product Science acquires during the course of the
+            Work;
         3.  The content or existence of any document you send to us that
             is protectively marked.
 
@@ -123,30 +123,35 @@
 
 10. ### Intellectual property
 
-    1.  Intellectual property in the Work that is created by us shall belong to Product Science.
-    2.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free licence
-        to use the Work in any manner you see fit.
-    3.  The Work may contain intellectual property owned by third parties. We will
-        take all reasonable steps to ensure that any such intellectual property is
-        licensed in such a way that you are able to make use of the Work as you see fit.
-    4.  Product Science may place links or representative screenshots of the Work
-        along with your name or logos on a Product Science website or within
-        other promotional material. To the extent that these materials are owned by
-        you, you agree to grant us a perpetual, irrevocable, non-exclusive,
-        royalty-free licence that authorises this use.
+    1.  Intellectual property in the Work that is created by us shall belong to
+        Product Science.
+    2.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free
+        licence to use the Work in any manner you see fit.
+    3.  The Work may contain intellectual property owned by third parties. We
+        will take all reasonable steps to ensure that any such intellectual
+        property is licensed in such a way that you are able to make use of the
+        Work as you see fit.
+    4.  Product Science may place links or representative screenshots of the
+        Work along with your name or logos on a Product Science website or
+        within other promotional material. To the extent that these materials
+        are owned by you, you agree to grant us a perpetual, irrevocable,
+        non-exclusive, royalty-free licence that authorises this use.
 
 11. ### Payments
 
-    1.  Product Science will issue invoices for the Work on completion, or at intervals
-        as described in the proposal.
+    1.  Product Science will issue invoices for the Work on completion, or at
+        intervals as described in the proposal.
     2.  Invoices are payable within 14 days.
     3.  Product Science may charge interest on overdue invoices at 5% over the
         Barclay's Bank base rate.
-    4.  You shall make payment by BACS transfer or (if agreed in advance with Product Science)
-        credit or debit card. Product Science does not accept cheques.
+    4.  You shall make payment by BACS/IBAN transfer or (if agreed in advance
+        with Product Science) credit or debit card. Product Science does not
+        accept cheques.
     5.  Credit and debit card payments are subject to a 2.5% fee.
-    6.  VAT (where applicable) is payable on, and in addition to, all sums due under this     agreement.
-    7. Product Science issues invoices by email. If you require a paper invoice to be issued, Product Science may charge an additional fee.
+    6.  VAT (where applicable) is payable on, and in addition to, all sums due
+        under this agreement.
+    7.  Product Science issues invoices by email. If you require a paper invoice
+        to be issued, Product Science may charge an additional fee.
 
 12. ### Circumstances beyond our control
 
@@ -184,10 +189,10 @@
 
 17. ### Whole agreement
 
-    1.  With the exception of any framework agreement of which this agreement forms a part,
-        this agreement and the proposal that accompanies it constitute the entire
-        agreement between us with respect to the Work, and replaces any prior oral or
-        written agreement which may exist.
+    1.  With the exception of any framework agreement of which this agreement
+        forms a part, this agreement and the proposal that accompanies it
+        constitute the entire agreement between us with respect to the Work,
+        and replaces any prior oral or written agreement which may exist.
 
 18. ### Termination
 
